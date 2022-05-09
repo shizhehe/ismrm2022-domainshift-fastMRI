@@ -14,7 +14,7 @@ In this work, we investigate the problem of domain shift in the context of state
 - [interactive_plotting.ipynb](interactive_plotting.ipynb) - Notebook for generating the interactive subject-to-network performance visualization tool
 
 ## Citations
-> [**$Σ$-net: Systematic Evaluation of Iterative Deep Neural Networks for Fast Parallel MR Image Reconstruction**](https://arxiv.org/abs/1912.09278)
+> [**Σ-net: Systematic Evaluation of Iterative Deep Neural Networks for Fast Parallel MR Image Reconstruction**](https://arxiv.org/abs/1912.09278)
 > 
 > Kerstin Hammernik, Jo Schlemper, Chen Qin, Jinming Duan, Ronald M. Summers, Daniel Rueckert
 > 
